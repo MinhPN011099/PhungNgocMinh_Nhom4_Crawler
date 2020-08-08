@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a51d101-6ec7-4121-a55d-1dee1e99756f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fgWGpNSrE4ZzhFNXqIvlMmWrNW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+  </component>
+  <component name="RunManager" selected="Python.run_crawler">
+    <configuration name="run_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_project/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_project/spiders/run_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vnexpress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_project/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_project/spiders/vnexpress.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_crawler" />
+        <item itemvalue="Python.vnexpress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a51d101-6ec7-4121-a55d-1dee1e99756f" name="Default Changelist" comment="" />
+      <created>1596640123259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596640123259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="201" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596640399223">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="201" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.733@0.23.1280.733" timestamp="1596640399223" />
+    <state x="611" y="125" key="#xdebugger.evaluate" timestamp="1596688401558">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="611" y="125" key="#xdebugger.evaluate/0.23.1280.731@0.23.1280.731" timestamp="1596688401558" />
+    <state width="1249" height="219" key="GridCell.Tab.0.bottom" timestamp="1596879001869">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1596858023857" />
+    <state width="1249" height="219" key="GridCell.Tab.0.bottom/0.23.1280.731@0.23.1280.731" timestamp="1596879001869" />
+    <state width="1249" height="219" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1596878862060" />
+    <state width="1239" height="210" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1596642530985" />
+    <state width="1249" height="219" key="GridCell.Tab.0.center" timestamp="1596879001868">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1596858023855" />
+    <state width="1249" height="219" key="GridCell.Tab.0.center/0.23.1280.731@0.23.1280.731" timestamp="1596879001868" />
+    <state width="1249" height="219" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1596878862059" />
+    <state width="1239" height="210" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1596642530983" />
+    <state width="1249" height="219" key="GridCell.Tab.0.left" timestamp="1596879001867">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1596858023854" />
+    <state width="1249" height="219" key="GridCell.Tab.0.left/0.23.1280.731@0.23.1280.731" timestamp="1596879001867" />
+    <state width="1249" height="219" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1596878862058" />
+    <state width="1239" height="210" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1596642530983" />
+    <state width="1249" height="219" key="GridCell.Tab.0.right" timestamp="1596879001869">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1596858023856" />
+    <state width="1249" height="219" key="GridCell.Tab.0.right/0.23.1280.731@0.23.1280.731" timestamp="1596879001869" />
+    <state width="1249" height="219" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1596878862059" />
+    <state width="1239" height="210" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1596642530984" />
+    <state width="901" height="244" key="GridCell.Tab.1.bottom" timestamp="1596713171902">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="901" height="244" key="GridCell.Tab.1.bottom/0.23.1280.731@0.23.1280.731" timestamp="1596713171902" />
+    <state width="901" height="244" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1596712895967" />
+    <state width="1239" height="210" key="GridCell.Tab.1.bottom/0.23.1280.733@0.23.1280.733" timestamp="1596642530986" />
+    <state width="901" height="244" key="GridCell.Tab.1.center" timestamp="1596713171901">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="901" height="244" key="GridCell.Tab.1.center/0.23.1280.731@0.23.1280.731" timestamp="1596713171901" />
+    <state width="901" height="244" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1596712895966" />
+    <state width="1239" height="210" key="GridCell.Tab.1.center/0.23.1280.733@0.23.1280.733" timestamp="1596642530985" />
+    <state width="901" height="244" key="GridCell.Tab.1.left" timestamp="1596713171901">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="901" height="244" key="GridCell.Tab.1.left/0.23.1280.731@0.23.1280.731" timestamp="1596713171901" />
+    <state width="901" height="244" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1596712895965" />
+    <state width="1239" height="210" key="GridCell.Tab.1.left/0.23.1280.733@0.23.1280.733" timestamp="1596642530985" />
+    <state width="901" height="244" key="GridCell.Tab.1.right" timestamp="1596713171902">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="901" height="244" key="GridCell.Tab.1.right/0.23.1280.731@0.23.1280.731" timestamp="1596713171902" />
+    <state width="901" height="244" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1596712895967" />
+    <state width="1239" height="210" key="GridCell.Tab.1.right/0.23.1280.733@0.23.1280.733" timestamp="1596642530986" />
+    <state x="159" y="28" key="SettingsEditor" timestamp="1596685199656">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="159" y="28" key="SettingsEditor/0.23.1280.732@0.23.1280.732" timestamp="1596685199656" />
+    <state x="329" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1596770140626">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="329" y="239" key="com.intellij.ide.util.TipDialog/0.23.1280.731@0.23.1280.731" timestamp="1596770140626" />
+    <state x="329" y="239" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1596705874608" />
+    <state x="329" y="239" key="com.intellij.ide.util.TipDialog/0.23.1280.733@0.23.1280.733" timestamp="1596640132741" />
+    <state x="411" y="131" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596641302166">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="411" y="131" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.732@0.23.1280.732" timestamp="1596641302166" />
+    <state x="315" y="79" width="670" height="676" key="search.everywhere.popup" timestamp="1596685192605">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="315" y="79" width="670" height="676" key="search.everywhere.popup/0.23.1280.732@0.23.1280.732" timestamp="1596685192605" />
+  </component>
+</project>
